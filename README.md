@@ -1,4 +1,6 @@
 # Shield Insurance Business Intelligence Dashboard
+<img width="1173" height="659" alt="Landing Page" src="https://github.com/user-attachments/assets/5124a5ba-4b07-4076-a1c1-46c83acf0232" />
+
 
 ## 📌 Project Overview
 
@@ -264,20 +266,20 @@ Shield-Insurance-Business-Insights/
 ## 📸 Dashboard Screenshots
 
 ### Landing Page
+<img width="1173" height="659" alt="Landing Page" src="https://github.com/user-attachments/assets/4903a64f-76e4-4ada-bec5-a44c1708fbcf" />
 
-![Landing Page](Landing_Page.png)
 
 ### Executive Dashboard
+<img width="1366" height="768" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/6447f879-565e-4ef5-8470-eb5bd47fc4a1" />
 
-![Executive Dashboard](Screenshot(90).png)
 
 ### Sales Mode Analysis
+<img width="1366" height="768" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/09075bf3-0895-4bd8-9b45-b5fb5a05c1f5" />
 
-![Sales Mode Analysis](Screenshot(91).png)
 
 ### Age Group Analysis
+<img width="1366" height="768" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/07f0054a-ee4a-4862-9efc-d6fe93d60bb3" />
 
-![Age Group Analysis](Screenshot(92).png)
 
 ---
 
